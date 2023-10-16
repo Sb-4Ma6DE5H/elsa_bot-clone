@@ -1,0 +1,40 @@
+{
+  "users": {
+    "918891066980@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity",
+      "anime_limit": 5
+    }
+  },
+  "chats": {
+    "918891066980@s.whatsapp.net": {
+      "mute": false,
+      "block_jid": false,
+      "antilink": true,
+      "welcome": false,
+      "welcome_message": "",
+      "welcome_image": "",
+      "goodbye_message": "",
+      "goodbye_image": ""
+    }
+  },
+  "database": {},
+  "settings": {
+    "918891066980@s.whatsapp.net": {
+      "status": 1697447088988,
+      "alive": false,
+      "autobio": true,
+      "kickmessage": "",
+      "addmessage": "",
+      "promotemessage": "",
+      "demotemessage": "",
+      "blockmessage": "",
+      "unblockmessage": ""
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
